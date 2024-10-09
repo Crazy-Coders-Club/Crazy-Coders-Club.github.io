@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+    padding: 1.5em 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+.members {
+    padding: 2em;
+    text-align: center;
+}
+
+.members ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.members li {
+    margin: 1em 0;
+}
+
+.members a {
+    color: #fd009c;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+.bio {
+    text-align: center;
+    padding: 2em;
+}
+
+.bio img {
+    max-width: 150px;
+    border-radius: 50%;
+}
+
+a {
+    display: inline-block;
+    margin-top: 2em;
+    text-decoration: none;
+    color: #fd009c;
+    font-size: 1.2em;
+}
